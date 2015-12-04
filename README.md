@@ -1,0 +1,2 @@
+# newzos
+Test Dockerfile
